@@ -161,3 +161,7 @@ h2 a {
     margin: 0 15px;
     cursor: pointer;
 }
+
+td:last-child:hover{
+    background-color: #0E1119;
+}
