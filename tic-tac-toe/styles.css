@@ -1,0 +1,16 @@
+div {
+    border-color: black;
+    border-width: 0.5cm;
+    width: 4cm;
+    height: 4cm;
+    border-style: solid;
+}
+table{
+    border-style: solid;
+    border-color: aqua;
+    border-width: 1cm;
+}
+img{
+    width: 4cm;
+    height: 4cm;
+}
