@@ -1,4 +1,3 @@
-let obg = {
-name:1
-}
-console.log(obg.length);
+obj = {}
+obj["Iban"]["1"] = 1
+console.log(obj)
