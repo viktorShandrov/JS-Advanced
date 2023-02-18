@@ -5,5 +5,23 @@
   },
   "devDependencies": {
     "nyc": "^15.1.0"
-  }
+  },
+  "name": "js-advanced",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viktorShandrov/JS-Advanced.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viktorShandrov/JS-Advanced/issues"
+  },
+  "homepage": "https://github.com/viktorShandrov/JS-Advanced#readme"
 }
