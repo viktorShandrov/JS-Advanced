@@ -9,6 +9,7 @@ import { endpointsAPI } from "../app.js";
 
 async function onSubmit(e){
     e.preventDefault();
+    
     const {email,password} = Object.fromEntries(new FormData(e.target))
     if(email===""||password===""){
         return alert("Invalid inputs!")
